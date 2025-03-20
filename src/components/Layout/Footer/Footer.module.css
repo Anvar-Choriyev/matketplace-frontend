@@ -1,0 +1,48 @@
+.container {
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 60px;
+    display: flex;
+    justify-content: space-between;
+}
+.footer {
+    width: 100%;
+    height: 487px;
+    background-color: #0B0B0B;
+}
+.footer h4 {
+    font-size: 30px;
+    color: #fff;
+}
+.footer p {
+    font-size: 16px;
+    text-align: right;
+    color: #fff;
+    letter-spacing: 0;
+    font-weight: 400;
+}
+.footer h5 {
+    font-size: 20px;
+    color: #fff;
+    letter-spacing: 0;
+    font-weight: 400;
+    margin-top: 30px;
+}
+.logo {
+    width: 334px;
+    display: flex;
+    gap: 8px;
+}
+.logo img {
+    width: 52px;
+    height: 56px;
+}
+.footerMenu {
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 500;
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 24px;
+    cursor: pointer;
+}

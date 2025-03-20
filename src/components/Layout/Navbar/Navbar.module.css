@@ -1,0 +1,14 @@
+.navbar {
+    padding: 25px 45px;
+    background-color: #F8F8F8;
+    list-style: none;
+    display: flex;
+    gap: 24px;
+    border-radius: 18px;
+    color: #838383;
+    font-size: 14px;
+    cursor: pointer;
+}
+li:nth-child(1) {
+    color: #22A638;
+}

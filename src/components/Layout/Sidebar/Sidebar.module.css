@@ -1,0 +1,26 @@
+.sidebar {
+    width: 335px;
+    height: 623px;
+    background-color: #F8F8F8;
+    padding-top: 10px;
+    border-radius: 20px;
+    margin-top: 24px;
+}
+.sidebar select {
+    width: 295px;
+    height: 68px;
+    padding: 22px;
+    background-color: #FFF;
+    border: 1px solid #F8F8F8;
+    border-radius: 18px;
+    margin: 16px 20px;
+    cursor: pointer;
+}
+.button {
+    padding: 26px 103px;
+    background-color: #22A638;
+    border-radius: 18px;
+    color: #fff;
+    border-color: transparent;
+    margin: 16px 27px;
+}

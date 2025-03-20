@@ -1,0 +1,9 @@
+.language {
+    display: inline-block;
+    padding: 22px 20px;
+    background-color: #F8F8F8;
+    border-radius: 18px;
+    border: none;
+    color: #838383;
+    cursor: pointer;
+}
